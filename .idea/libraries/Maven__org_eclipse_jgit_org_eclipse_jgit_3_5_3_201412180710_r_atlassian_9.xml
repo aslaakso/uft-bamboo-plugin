@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jgit:org.eclipse.jgit:3.5.3.201412180710-r-atlassian-9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r-atlassian-9/org.eclipse.jgit-3.5.3.201412180710-r-atlassian-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r-atlassian-9/org.eclipse.jgit-3.5.3.201412180710-r-atlassian-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r-atlassian-9/org.eclipse.jgit-3.5.3.201412180710-r-atlassian-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+var customWidth = "500px";
+document.getElementById('almServer').style.maxWidth=customWidth;
+document.getElementById('userName').style.maxWidth=customWidth;
+document.getElementById('password').style.maxWidth=customWidth;
+document.getElementById('domain').style.maxWidth=customWidth;
+document.getElementById('projectName').style.maxWidth=customWidth;
+document.getElementById('testPathInput').style.maxWidth=customWidth;
+document.getElementById('timeoutInput').style.maxWidth=customWidth;
+document.getElementById('testingToolHost').style.maxWidth=customWidth;
+document.getElementById('runMode').style.maxWidth=customWidth;

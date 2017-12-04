@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbc3866b-06f4-417b-be3b-388d1c13d93e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/hpe-bamboo-plugin-master/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AlmLabEnvPrepareTaskConfigurator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabEnvPrepareTaskConfigurator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="93" column="112" lean-forward="false" selection-start-line="93" selection-start-column="112" selection-end-line="93" selection-end-column="112" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PROJECT_LAB_ENV</find>
+      <find>error.ALMServerIsEmpty</find>
+      <find>error.almServerIsEmpty</find>
+      <find>almProject</find>
+      <find>almServer</find>
+      <find>alert</find>
+      <find>jobUUID</find>
+      <find>jobId</find>
+      <find>The login to Mobile Center failed. Check that the Mobile Center login information is correct.</find>
+      <find>req.</find>
+      <find>contextPath</find>
+      <find>createTempJob</find>
+      <find>LOGIN_SECRET</find>
+      <find>RunFromAlmTask.error.canNotSaveTheRunLog</find>
+      <find>CAN_NOT_SAVE_RUN_LOG_MESSAGE</find>
+      <find>VariableDefinitionManager</find>
+      <find>populateContext</find>
+      <find>ALMServerIsEmpty</find>
+      <find>ENV_ALM_PARAMETERS_NAME</find>
+      <find>AlmLabEnvPrepareTask.toolTip.JSONPath</find>
+      <find>populateContextForCreate</find>
+      <find>generateTaskConfigMap</find>
+      <find>populateContextForEdit</find>
+      <find>almParams</find>
+      <find>param</find>
+      <find>AlmLabEnvPrepareTask.toolTip</find>
+      <find>'AlmLabEnvPrepareTask.toolTip.AUTEnvID</find>
+      <find>AlmLabEnvPrepareTask.toolTip.AUTEnvConfID</find>
+      <find>AlmLabEnvPrepareTask.error.projectIsEmpty</find>
+      <find>AlmLabEnvPrepareTask.error.assignAUTEnvConfValueIsNotAssigned</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>UFTTask</replace>
+      <replace>RunFromFileSystemTask</replace>
+      <replace>FileSystemTaskConfigurator</replace>
+      <replace>RunFromAlmTask</replace>
+      <replace>RunFromAlmLabManagementTask</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\uft</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/css/uft/almLavEnv.css" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAlmLabManagement.js" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAlm.js" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/css/uft/uploadAppMC.css" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAppMC.js" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/messages_en.properties" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/FileSystemTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/css/uft/fileSystem.css" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/test.css" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/docs/sdk-overview.txt" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/help/RunType.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/RunType.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/TaskUtils.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/UFTConstants.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/TaskUtils.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/css/uft/almLabManagement.css" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/runFromAlmLabManagementTask.ftl" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/runFromALMTask.ftl" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/uploadApp.ftl" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/api/AbstractLauncherTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/api/AbstractLauncherTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/CapabilityUftDefaultsHelper.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/WindowsRegistry.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/VariableService.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/LauncherParamsBuilder.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/ResultInfoItem.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmLabManagementTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/UploadApplicationTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperFileSystem.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/XmlTestResultsReportCollector.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromFileSystemTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabManagementTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/UploadApplicationTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/FilesHandler.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/enums/UFTConstants.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/loadrunner/capability/LoadRunnerCapability.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/loadrunner/task/LoadRunnerTestTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelper.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/HpTasksArtifactRegistrator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runFileSystem.js" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/runFromFileSystemTask.ftl" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/atlassian-plugin.xml" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/AlmLabEnvPrepareTask.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/pom.xml" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/bamboo_uft_en.properties" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/almLabEnvPrepareTask.ftl" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabEnvPrepareTaskConfigurator.java" />
+        <option value="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/errors_en.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="app-delivery-management-bamboo/invalid/Spring" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HPE Bamboo plugin (new version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HPE Bamboo plugin (new version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HPE Bamboo plugin (new version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HPE Bamboo plugin (new version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1908" />
+    <option name="y" value="58" />
+    <option name="width" value="1938" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+              <item name="capability" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="uft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactored UFT plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactored UFT plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../UFT Bamboo Plugin/HPE-Software-Bamboo-Plugin-master/Bamboo/hp.application.automation/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="AlmLa&#9;FILE&#9;file://C:/Users/laakso/CI/Bamboo/Refactored UFT plugin/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabManagementTaskConfigurator.java&#10;Hp&#9;FILE&#9;file://C:/Users/laakso/CI/Bamboo/Refactored UFT plugin/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/HpTasksArtifactRegistrator.java&#10;bamboo-plug&#9;FILE&#9;file://C:/Users/laakso/CI/Bamboo/Refactored UFT plugin/hpe-bamboo-plugin-master/src/main/resources/lr/bamboo-plugin.properties" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\properties\uft\uft2" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\uft\properties" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\lr" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\uft" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.adm.bamboo.plugin.loadrunner.task" />
+      <recent name="com.adm.bamboo.plugin.loadrunner.capability" />
+      <recent name="com.adm.utils.uft.enums" />
+      <recent name="com.adm.utils.uft" />
+      <recent name="com.adm.bamboo.plugin.uft.capability" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.adm.bamboo.plugin.uft.task" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\images\task\uft" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\templates\uft" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources\Tools" />
+      <recent name="C:\Users\laakso\CI\Bamboo\Refactored UFT plugin\hpe-bamboo-plugin-master\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Remote.Debug tests">
+    <configuration name="Debug tests" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbc3866b-06f4-417b-be3b-388d1c13d93e" name="Default" comment="" />
+      <created>1503643883209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503643883209</updated>
+      <workItem from="1503643884562" duration="6542000" />
+      <workItem from="1503663747007" duration="5194000" />
+      <workItem from="1503901850167" duration="16900000" />
+      <workItem from="1503990386912" duration="15812000" />
+      <workItem from="1504071716310" duration="22075000" />
+      <workItem from="1504101048883" duration="441000" />
+      <workItem from="1504162023367" duration="684000" />
+      <workItem from="1504163351817" duration="16152000" />
+      <workItem from="1504248312335" duration="6286000" />
+      <workItem from="1504510895495" duration="2798000" />
+      <workItem from="1504606018406" duration="2107000" />
+      <workItem from="1504610437572" duration="7762000" />
+      <workItem from="1504681003356" duration="12076000" />
+      <workItem from="1504705770701" duration="15000" />
+      <workItem from="1504705815769" duration="3000" />
+      <workItem from="1504705910301" duration="1134000" />
+      <workItem from="1504764275152" duration="14000" />
+      <workItem from="1504764517035" duration="5000" />
+      <workItem from="1504792347544" duration="621000" />
+      <workItem from="1504852734465" duration="5265000" />
+      <workItem from="1505112860097" duration="3557000" />
+      <workItem from="1505133763961" duration="3012000" />
+      <workItem from="1505197296671" duration="19528000" />
+      <workItem from="1505280842135" duration="22661000" />
+      <workItem from="1505373671205" duration="15945000" />
+      <workItem from="1505742343151" duration="4495000" />
+      <workItem from="1505746929099" duration="214000" />
+      <workItem from="1505808067992" duration="713000" />
+      <workItem from="1505829938342" duration="752000" />
+      <workItem from="1506066015850" duration="2250000" />
+      <workItem from="1506082098686" duration="969000" />
+      <workItem from="1506083081370" duration="5307000" />
+      <workItem from="1506088484479" duration="27000" />
+      <workItem from="1507102787402" duration="5182000" />
+      <workItem from="1507186330075" duration="18109000" />
+      <workItem from="1507267924221" duration="11387000" />
+      <workItem from="1507530010710" duration="3594000" />
+      <workItem from="1507554417809" duration="650000" />
+      <workItem from="1507633179380" duration="9000" />
+      <workItem from="1507809811439" duration="761000" />
+      <workItem from="1511421687963" duration="703000" />
+      <workItem from="1511422520411" duration="9850000" />
+      <workItem from="1511438908990" duration="8401000" />
+      <workItem from="1511508776897" duration="899000" />
+      <workItem from="1511511045663" duration="2001000" />
+      <workItem from="1511514438206" duration="45000" />
+      <workItem from="1511514798846" duration="670000" />
+      <workItem from="1511945741759" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="263631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1908" y="58" width="1938" height="976" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31841075" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40650406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39130434" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18850698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32825205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/JobOperation.java</url>
+          <line>216</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/JobOperation.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-api/5.13.0.1/atlassian-bamboo-api-5.13.0.1.jar!/com/atlassian/bamboo/plan/artifact/ArtifactDefinitionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/WindowsRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/VariableService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/LauncherParamsBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/ResultInfoItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-api/5.13.0.1/atlassian-bamboo-api-5.13.0.1.jar!/com/atlassian/bamboo/build/test/TestCollationService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/UploadApplicationTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="98" column="12" lean-forward="false" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="83" column="7" lean-forward="true" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/XmlTestResultsReportCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" column="91" lean-forward="false" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/hpe-application-automation-tools-common/3.0.8-SNAPSHOT/hpe-application-automation-tools-common-3.0.8-SNAPSHOT.jar!/com/hpe/application/automation/tools/common/model/CdaDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/UploadApplicationTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/enums/AlmRunMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/enums/ResultTypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/enums/RunType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/TaskUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-api/5.13.0.1/atlassian-bamboo-api-5.13.0.1.jar!/com/atlassian/bamboo/v2/build/agent/capability/CapabilityDefaultsHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/loadrunner/task/LoadRunnerTestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="207" column="13" lean-forward="true" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/loadrunner/task/LoadRunnerCapability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/HpTasksArtifactRegistrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/FilesHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabManagementTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="106" column="20" lean-forward="true" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="68" column="84" lean-forward="true" selection-start-line="68" selection-start-column="84" selection-end-line="68" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="49" column="57" lean-forward="false" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAlm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAppMC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runFileSystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromFileSystemTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="152" column="53" lean-forward="false" selection-start-line="152" selection-start-column="53" selection-end-line="152" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/atlassian-plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/runFromALMTask.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/JobOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="188" column="13" lean-forward="false" selection-start-line="188" selection-start-column="13" selection-end-line="188" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/uploadApp.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="83" column="45" lean-forward="false" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="69" column="93" lean-forward="false" selection-start-line="69" selection-start-column="93" selection-end-line="69" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmLabManagementTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="116" column="12" lean-forward="false" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-api/5.13.0.1/atlassian-bamboo-api-5.13.0.1.jar!/com/atlassian/bamboo/variable/VariableDefinitionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/js/uft/runAlmLabEnv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-core/5.9.10/atlassian-bamboo-core-5.9.10.jar!/com/atlassian/bamboo/task/AbstractTaskConfigurator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/api/AbstractLauncherTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="303" column="0" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/messages_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atlassian/bamboo/atlassian-bamboo-api/5.13.0.1/atlassian-bamboo-api-5.13.0.1.jar!/com/atlassian/bamboo/task/TaskDefinition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/api/AbstractLauncherTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/AlmLabEnvPrepareTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1779">
+          <caret line="24" column="61" lean-forward="false" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/AlmConfigParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/bamboo_uft_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/runFromFileSystemTask.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8001">
+          <caret line="381" column="10" lean-forward="false" selection-start-line="381" selection-start-column="5" selection-end-line="381" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/FileSystemTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="121" column="17" lean-forward="false" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/enums/UFTConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/templates/uft/almLabEnvPrepareTask.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="93" lean-forward="false" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/properties/uft/errors_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabEnvPrepareTaskConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="93" column="112" lean-forward="false" selection-start-line="93" selection-start-column="112" selection-end-line="93" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Invalid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>app-delivery-management-bamboo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

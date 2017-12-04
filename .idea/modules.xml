@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Refactored UFT plugin.iml" filepath="$PROJECT_DIR$/.idea/Refactored UFT plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hpe-bamboo-plugin-master/app-delivery-management-bamboo.iml" filepath="$PROJECT_DIR$/hpe-bamboo-plugin-master/app-delivery-management-bamboo.iml" />
+    </modules>
+  </component>
+</project>
