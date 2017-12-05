@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class FileSystemTaskConfigurator extends AbstractLauncherTaskConfigurator {
+public class FileSystemUftTaskConfigurator extends AbstractLauncherTaskConfigurator {
 
     public Map<String, String> generateTaskConfigMap(@NotNull final ActionParametersMap params, @Nullable final TaskDefinition previousTaskDefinition) {
         final Map<String, String> config = super.generateTaskConfigMap(params, previousTaskDefinition);

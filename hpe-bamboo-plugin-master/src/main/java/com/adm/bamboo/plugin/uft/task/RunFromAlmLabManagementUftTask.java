@@ -27,13 +27,13 @@ import java.util.Properties;
 import static com.adm.bamboo.plugin.uft.results.TestResultHelper.collateTestResults;
 import static com.adm.bamboo.plugin.uft.results.TestResultHelperAlm.AddALMArtifacts;
 
-public class RunFromAlmLabManagementTask implements AbstractLauncherTask {
+public class RunFromAlmLabManagementUftTask implements AbstractLauncherTask {
     private final TestCollationService testCollationService;
     private static I18nBean i18nBean;
 
     private final String LINK_SEARCH_FILTER = "run report for run id";
 
-    public RunFromAlmLabManagementTask(final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
+    public RunFromAlmLabManagementUftTask(final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
         this.testCollationService = testCollationService;
         i18nBean = i18nBeanFactory.getI18nBean();
     }

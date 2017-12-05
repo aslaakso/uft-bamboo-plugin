@@ -1,7 +1,7 @@
 package com.adm.bamboo.plugin.uft.task;
 
 import com.adm.bamboo.plugin.uft.api.AbstractLauncherTask;
-import com.adm.bamboo.plugin.uft.ui.UploadApplicationTaskConfigurator;
+import com.adm.bamboo.plugin.uft.ui.UploadApplicationUftTaskConfigurator;
 import com.adm.utils.uft.enums.UFTConstants;
 import com.atlassian.bamboo.build.logger.BuildLogger;
 import com.atlassian.bamboo.build.test.TestCollationService;
@@ -26,12 +26,12 @@ import java.util.Properties;
 import static com.adm.bamboo.plugin.uft.results.TestResultHelper.collateTestResults;
 import static com.adm.utils.uft.TaskUtils.logErrorMessage;
 
-public class UploadApplicationTask implements AbstractLauncherTask {
+public class UploadApplicationUftTask implements AbstractLauncherTask {
     private final I18nBean i18nBean;
     private final TestCollationService testCollationService;
 
 
-    public UploadApplicationTask(@NotNull final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
+    public UploadApplicationUftTask(@NotNull final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
         this.i18nBean = i18nBeanFactory.getI18nBean();
         this.testCollationService = testCollationService;
     }
@@ -63,7 +63,7 @@ public class UploadApplicationTask implements AbstractLauncherTask {
 
         JobOperation operation = new JobOperation(mcServerUrl, mcUserName, mcPassword, proxyAddress, proxyUserName, proxyPassword);
 
-        List<String> applicationsPaths = UploadApplicationTaskConfigurator.fetchMCApplicationPathFromContext(map);
+        List<String> applicationsPaths = UploadApplicationUftTaskConfigurator.fetchMCApplicationPathFromContext(map);
 
         if (applicationsPaths == null || applicationsPaths.size() == 0) {
             logErrorMessage(i18nBean.getText("UploadApplicationTask.error.atLeastOneApp"), buildLogger, taskContext);

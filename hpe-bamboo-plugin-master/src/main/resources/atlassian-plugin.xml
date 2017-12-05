@@ -61,11 +61,11 @@
 
     <taskType
             name="HPE UFT File System Execution"
-            class="com.adm.bamboo.plugin.uft.task.RunFromFileSystemTask"
+            class="com.adm.bamboo.plugin.uft.task.RunFromFileSystemUftTask"
             key="RunFromFileSystemTask">
         <description>Execute HP UFT tests from file system</description>
         <category name="test"/>
-        <configuration class="com.adm.bamboo.plugin.uft.ui.FileSystemTaskConfigurator"/>
+        <configuration class="com.adm.bamboo.plugin.uft.ui.FileSystemUftTaskConfigurator"/>
         <capabilityDefaultsHelper class="com.adm.bamboo.plugin.uft.capability.CapabilityUftDefaultsHelper"/>
         <resource
                 type="freemarker"
@@ -83,11 +83,11 @@
 
     <taskType
             name="HPE UFT ALM Execution"
-            class="com.adm.bamboo.plugin.uft.task.RunFromAlmTask"
+            class="com.adm.bamboo.plugin.uft.task.RunFromAlmUftTask"
             key="RunFromAlmTask">
         <description>Execute HP UFT tests from ALM</description>
         <category name="test"/>
-        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmTaskConfigurator"/>
+        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmUftTaskConfigurator"/>
         <resource
                 type="freemarker"
                 name="edit"
@@ -100,11 +100,11 @@
 
     <taskType
             name="HPE UFT ALM Lab Management"
-            class="com.adm.bamboo.plugin.uft.task.RunFromAlmLabManagementTask"
+            class="com.adm.bamboo.plugin.uft.task.RunFromAlmLabManagementUftTask"
             key="RunFromAlmLabManagementTask">
         <description>Execute HP UFT tests using HP ALM Lab Management</description>
         <category name="test"/>
-        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmLabManagementTaskConfigurator"/>
+        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmLabManagementUftTaskConfigurator"/>
         <resource
                 type="freemarker"
                 name="edit"
@@ -117,11 +117,11 @@
 
     <taskType
             name="HPE UFT ALM Lab Management Environment Preparation"
-            class="com.adm.bamboo.plugin.uft.task.AlmLabEnvPrepareTask"
+            class="com.adm.bamboo.plugin.uft.task.AlmLabEnvPrepareUftTask"
             key="AlmLabEnvPrepareTask">
         <description>Execute AUT Environment preparation using HP ALM Lab Management</description>
         <category name="test"/>
-        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmLabEnvPrepareTaskConfigurator"/>
+        <configuration class="com.adm.bamboo.plugin.uft.ui.AlmLabEnvPrepareUftTaskConfigurator"/>
         <resource
                 type="freemarker"
                 name="edit"
@@ -134,11 +134,11 @@
 
     <taskType
             name="HPE MC Application Upload"
-            class="com.adm.bamboo.plugin.uft.task.UploadApplicationTask"
+            class="com.adm.bamboo.plugin.uft.task.UploadApplicationUftTask"
             key="UploadApplicationTask">
         <description>Uploads apps to Mobile Center</description>
         <category name="test"/>
-        <configuration class="com.adm.bamboo.plugin.uft.ui.UploadApplicationTaskConfigurator"/>
+        <configuration class="com.adm.bamboo.plugin.uft.ui.UploadApplicationUftTaskConfigurator"/>
         <resource
                 type="freemarker"
                 name="edit"

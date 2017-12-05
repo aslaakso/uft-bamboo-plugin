@@ -35,11 +35,11 @@ import static com.adm.bamboo.plugin.uft.results.TestResultHelper.collateTestResu
 import static com.adm.utils.uft.FilesHandler.getOutputFilePath;
 import static com.adm.utils.uft.FilesHandler.zipResult;
 
-public class RunFromFileSystemTask implements AbstractLauncherTask {
+public class RunFromFileSystemUftTask implements AbstractLauncherTask {
     private final I18nBean i18nBean;
     private final TestCollationService testCollationService;
 
-    public RunFromFileSystemTask(@NotNull final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
+    public RunFromFileSystemUftTask(@NotNull final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
         this.i18nBean = i18nBeanFactory.getI18nBean();
         this.testCollationService = testCollationService;
     }

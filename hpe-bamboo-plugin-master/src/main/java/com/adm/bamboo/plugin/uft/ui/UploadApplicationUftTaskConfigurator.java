@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-public class UploadApplicationTaskConfigurator extends AbstractLauncherTaskConfigurator {
+public class UploadApplicationUftTaskConfigurator extends AbstractLauncherTaskConfigurator {
 
     public Map<String, String> generateTaskConfigMap(@NotNull final ActionParametersMap params, @Nullable final TaskDefinition previousTaskDefinition) {
         final Map<String, String> config = super.generateTaskConfigMap(params, previousTaskDefinition);

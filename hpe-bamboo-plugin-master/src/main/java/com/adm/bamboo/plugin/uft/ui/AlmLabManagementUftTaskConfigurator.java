@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class AlmLabManagementTaskConfigurator extends AbstractLauncherTaskConfigurator {
+public class AlmLabManagementUftTaskConfigurator extends AbstractLauncherTaskConfigurator {
 
     @NotNull
     @Override

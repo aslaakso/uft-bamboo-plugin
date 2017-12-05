@@ -16,7 +16,7 @@ import org.jetbrains.annotations.Nullable;
 import java.util.HashMap;
 import java.util.Map;
 
-public class AlmTaskConfigurator extends AbstractLauncherTaskConfigurator {
+public class AlmUftTaskConfigurator extends AbstractLauncherTaskConfigurator {
     private ArtifactDefinitionManager artifactDefinitionManager;
 
     public void setArtifactDefinitionManager(ArtifactDefinitionManager artifactDefinitionManager) {

@@ -3,7 +3,7 @@ package com.adm.bamboo.plugin.uft.task;
 import com.adm.bamboo.plugin.uft.api.AbstractLauncherTask;
 import com.adm.bamboo.plugin.uft.helpers.AlmConfigParameter;
 import com.adm.bamboo.plugin.uft.helpers.VariableService;
-import com.adm.bamboo.plugin.uft.ui.AlmLabEnvPrepareTaskConfigurator;
+import com.adm.bamboo.plugin.uft.ui.AlmLabEnvPrepareUftTaskConfigurator;
 import com.adm.utils.uft.enums.UFTConstants;
 import com.atlassian.bamboo.build.logger.BuildLogger;
 import com.atlassian.bamboo.configuration.ConfigurationMap;
@@ -22,10 +22,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-public class AlmLabEnvPrepareTask implements AbstractLauncherTask {
+public class AlmLabEnvPrepareUftTask implements AbstractLauncherTask {
     private final VariableService variableService;
 
-    public AlmLabEnvPrepareTask(VariableDefinitionManager variableDefinitionManager) {
+    public AlmLabEnvPrepareUftTask(VariableDefinitionManager variableDefinitionManager) {
 
         this.variableService = new VariableService(variableDefinitionManager);
     }
@@ -40,13 +40,13 @@ public class AlmLabEnvPrepareTask implements AbstractLauncherTask {
         String project = confMap.get(UFTConstants.PROJECT_LAB_ENV.getValue());
         String userName = confMap.get(UFTConstants.USER_NAME_LAB_ENV.getValue());
 
-        boolean useExistingAutEnvConf = AlmLabEnvPrepareTaskConfigurator.useExistingConfiguration(confMap);
+        boolean useExistingAutEnvConf = AlmLabEnvPrepareUftTaskConfigurator.useExistingConfiguration(confMap);
         String configuration = useExistingAutEnvConf ?
                 confMap.get(UFTConstants.AUT_ENV_EXIST_CONFIG_ID.getValue()) :
                 confMap.get(UFTConstants.AUT_ENV_NEW_CONFIG_NAME.getValue());
 
         List<AutEnvironmentParameterModel> autEnvironmentParameters = new ArrayList<AutEnvironmentParameterModel>();
-        for (AlmConfigParameter prm : AlmLabEnvPrepareTaskConfigurator.fetchAlmParametersFromContext(confMap)) {
+        for (AlmConfigParameter prm : AlmLabEnvPrepareUftTaskConfigurator.fetchAlmParametersFromContext(confMap)) {
             AutEnvironmentParameterType type = convertType(prm.getAlmParamSourceType());
 
             autEnvironmentParameters.add(

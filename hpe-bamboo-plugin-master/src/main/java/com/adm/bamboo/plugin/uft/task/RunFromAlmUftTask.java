@@ -24,11 +24,11 @@ import java.util.Properties;
 
 import static com.adm.bamboo.plugin.uft.results.TestResultHelper.collateTestResults;
 
-public class RunFromAlmTask implements AbstractLauncherTask {
+public class RunFromAlmUftTask implements AbstractLauncherTask {
     private final I18nBean i18nBean;
     private final TestCollationService testCollationService;
 
-    public RunFromAlmTask(final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
+    public RunFromAlmUftTask(final TestCollationService testCollationService, @NotNull final I18nBeanFactory i18nBeanFactory) {
         this.i18nBean = i18nBeanFactory.getI18nBean();
         this.testCollationService = testCollationService;
     }

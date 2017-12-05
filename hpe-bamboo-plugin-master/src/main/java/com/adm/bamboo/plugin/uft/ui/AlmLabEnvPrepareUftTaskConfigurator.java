@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class AlmLabEnvPrepareTaskConfigurator extends AbstractLauncherTaskConfigurator {
+public class AlmLabEnvPrepareUftTaskConfigurator extends AbstractLauncherTaskConfigurator {
     private static final Map ENV_ALM_CONFIG_OPTIONS = new HashMap();
 
     @NotNull
