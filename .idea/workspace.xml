@@ -2,117 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc3866b-06f4-417b-be3b-388d1c13d93e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/ALMRESTVersionUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/EncryptionUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/Pair.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/RestXmlUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/SSEException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/StringUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/XPathUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/AUTEnvironmentManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/AUTEnvironmentParametersManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/AUTEnvironmentResources.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/get/GetAutEnvFoldersByIdRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/get/GetAutEnvironmentByIdOldApiRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/get/GetAutEnvironmentByIdRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/get/GetAutEnvironmentConfigurationByIdRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/get/GetParametersByAutEnvConfIdRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/post/CreateAutEnvConfRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/put/AUTEnvironmnentParameter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/autenvironment/request/put/PutAutEnvironmentParametersBulkRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/CommonUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/HttpConnectionException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/HttpOperationServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/HttpResponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/HttpUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/integration/JobOperation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/ALMVersion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/AUTEnvironmentFolder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/AutEnvironmentConfigModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/AutEnvironmentParameterModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/AutEnvironmentParameterType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/CdaDetails.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/EnumDescription.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/model/SseModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/rest/HttpHeaders.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/rest/RESTConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/rest/RestClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/JUnitParser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/LabPublisher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/PCPublisher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/Publisher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/PublisherFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/ResultSerializer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Error.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Failure.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/JUnitTestCaseStatus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Properties.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Property.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Testcase.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Testsuite.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/result/model/junit/Testsuites.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/ALMRunReportUrlBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/AUTEnvironmentBuilderPerformer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/Args.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/Base64Encoder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/DirectoryZipHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/HttpRequestDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/Logger.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/PCRunResponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/ResourceAccessLevel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/Response.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/RestAuthenticator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/RunManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/RunResponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/BvsRunHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/EventLogHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/Handler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/JsonHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/LabPollHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/PCPollHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/PCRunHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/PollHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/PollHandlerFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/RunHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/RunHandlerFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/handler/TestSetRunHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/EventLogRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GeneralGetRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GeneralPostRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GeneralPutBulkRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GeneralRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetALMVersionRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetLabRunEntityDataRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetLabRunEntityTestSetRunsRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetPCRunEntityDataRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetPCRunEntityTestSetRunsRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/GetRunEntityNameRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/PollTimeslotRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/PostRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/StartRunEntityRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/tools/common/sdk/request/StopEntityRequest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_0_1B.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_0_1B.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jenkins_ci_plugins_hpe_application_automation_tools_common_3_0_8_SNAPSHOT.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_12_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_13_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/pom.xml" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/capability/CapabilityUftDefaultsHelper.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/capability/CapabilityUftDefaultsHelper.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/LauncherParamsBuilder.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/helpers/LauncherParamsBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperAlm.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperFileSystem.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/TestResultHelperFileSystem.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/XmlTestResultsReportCollector.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/results/XmlTestResultsReportCollector.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/AlmLabEnvPrepareUftTask.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/AlmLabEnvPrepareUftTask.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmLabManagementUftTask.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromAlmLabManagementUftTask.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromFileSystemUftTask.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/RunFromFileSystemUftTask.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/UploadApplicationUftTask.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/task/UploadApplicationUftTask.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabManagementUftTaskConfigurator.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/bamboo/plugin/uft/ui/AlmLabManagementUftTaskConfigurator.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/FilesHandler.java" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/java/com/adm/utils/uft/FilesHandler.java" />
-      <change beforePath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/atlassian-plugin.xml" afterPath="$PROJECT_DIR$/hpe-bamboo-plugin-master/src/main/resources/atlassian-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/common/hpe-application-automation-tools-common.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/ALMRESTVersionUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/EncryptionUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/Pair.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/RestXmlUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/SSEException.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/StringUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/UploadApplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/XPathUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/AUTEnvironmentManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/AUTEnvironmentParametersManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/AUTEnvironmentResources.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvFoldersByIdRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentByIdOldApiRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentByIdRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentConfigurationByIdRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/get/GetParametersByAutEnvConfIdRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/post/CreateAutEnvConfRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/put/AUTEnvironmnentParameter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/autenvironment/request/put/PutAutEnvironmentParametersBulkRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/CommonUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/HttpConnectionException.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/HttpOperationServlet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/HttpResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/HttpUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/integration/JobOperation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/ALMVersion.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/AUTEnvironmentFolder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/AutEnvironmentConfigModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/AutEnvironmentParameterModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/AutEnvironmentParameterType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/CdaDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/EnumDescription.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/model/SseModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/rest/HttpHeaders.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/rest/RESTConstants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/rest/RestClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/JUnitParser.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/LabPublisher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/PCPublisher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/Publisher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/PublisherFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/ResultSerializer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Error.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Failure.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/JUnitTestCaseStatus.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Properties.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Property.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Testcase.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Testsuite.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/result/model/junit/Testsuites.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/ALMRunReportUrlBuilder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/AUTEnvironmentBuilderPerformer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/Args.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/Base64Encoder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/Client.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/ConsoleLogger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/DirectoryZipHelper.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/HttpRequestDecorator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/Logger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/PCRunResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/ResourceAccessLevel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/Response.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/RestAuthenticator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/RunManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/RunResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/BvsRunHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/EventLogHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/Handler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/JsonHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/LabPollHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/PCPollHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/PCRunHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/PollHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/PollHandlerFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/RunHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/RunHandlerFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/handler/TestSetRunHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/CreateSiteSessionRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/EventLogRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GeneralGetRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GeneralPostRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GeneralPutBulkRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GeneralRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetALMVersionRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetLabRunEntityDataRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetLabRunEntityTestSetRunsRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetPCRunEntityDataRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetPCRunEntityTestSetRunsRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/GetRunEntityNameRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/PollTimeslotRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/PostRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/StartRunEntityRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/hpe/application/automation/tools/common/sdk/request/StopEntityRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/ALMRESTVersionUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/EncryptionUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/Pair.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/RestXmlUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/SSEException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/StringUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/UploadApplication.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/XPathUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/AUTEnvironmentManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/AUTEnvironmentParametersManager$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/AUTEnvironmentParametersManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/AUTEnvironmentResources.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvFoldersByIdRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentByIdOldApiRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentByIdRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/get/GetAutEnvironmentConfigurationByIdRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/get/GetParametersByAutEnvConfIdRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/post/CreateAutEnvConfRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/put/AUTEnvironmnentParameter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/autenvironment/request/put/PutAutEnvironmentParametersBulkRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/CommonUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpConnectionException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpOperationServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpUtils$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpUtils$ProxyInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/HttpUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/integration/JobOperation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/ALMVersion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/AUTEnvironmentFolder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/AutEnvironmentConfigModel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/AutEnvironmentParameterModel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/AutEnvironmentParameterType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/CdaDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/EnumDescription.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/model/SseModel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/HttpHeaders.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RESTConstants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RestClient$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RestClient$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RestClient$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RestClient$ProxyInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/rest/RestClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/JUnitParser$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/JUnitParser$TestcaseStatusUpdater.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/JUnitParser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/LabPublisher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/PCPublisher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/Publisher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/PublisherFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/ResultSerializer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Error.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Failure.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/JUnitTestCaseStatus.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Properties.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Property.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Testcase.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Testsuite.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/result/model/junit/Testsuites.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/ALMRunReportUrlBuilder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/AUTEnvironmentBuilderPerformer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/Args.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/Base64Encoder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/Client.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/ConsoleLogger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/DirectoryZipHelper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/HttpRequestDecorator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/Logger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/PCRunResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/ResourceAccessLevel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/Response.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/RestAuthenticator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/RunManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/RunResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/BvsRunHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/EventLogHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/Handler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/JsonHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/LabPollHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/PCPollHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/PCRunHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/PollHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/PollHandlerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/RunHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/RunHandlerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/handler/TestSetRunHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/CreateSiteSessionRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/EventLogRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GeneralGetRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GeneralPostRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GeneralPutBulkRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GeneralRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetALMVersionRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetLabRunEntityDataRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetLabRunEntityTestSetRunsRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetPCRunEntityDataRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetPCRunEntityTestSetRunsRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/GetRunEntityNameRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/PollTimeslotRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/PostRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/StartRunEntityRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/hpe/application/automation/tools/common/sdk/request/StopEntityRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/hpe-application-automation-tools-common-3.0.8-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/hpe-bamboo-plugin-master/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -445,62 +536,6 @@
               <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
               <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="adm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="adm" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uft-bamboo-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uft-bamboo-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="hpe-bamboo-plugin-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="adm" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="integration" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -717,12 +752,20 @@
       <workItem from="1511945741759" duration="54000" />
       <workItem from="1512397124443" duration="704000" />
       <workItem from="1512484540342" duration="2281000" />
-      <workItem from="1516955691660" duration="3501000" />
+      <workItem from="1516955691660" duration="3804000" />
     </task>
+    <task id="LOCAL-00001" summary="Included &quot;common&quot; project functionality inside the plugin">
+      <created>1516959959467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516959959467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270117000" />
+    <option name="totallyTimeSpent" value="270420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2409" y="1" width="2418" height="1468" extended-state="6" />
@@ -764,6 +807,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Included &quot;common&quot; project functionality inside the plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Included &quot;common&quot; project functionality inside the plugin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -882,6 +929,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,9 +1221,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="122" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
